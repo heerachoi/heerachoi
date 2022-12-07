@@ -28,7 +28,6 @@
 
 ## 🔥 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heera7722)](https://solved.ac/heera7722/)
-(https://career.programmers.co.kr/pr/heera7722_8849)
 
 
 <div align=center>
