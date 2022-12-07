@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi!%👋%I%20AM%20HEERA%CHOI&fontSize=60)
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi!%I%AM%HEERA%CHOI&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=HI!👋%20I%20AM%20HEERA&fontSize=50)
 
 ### Hi there 👋
 
