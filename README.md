@@ -14,10 +14,26 @@
 2. [포트폴리오](https://heerachoi-portfolio.netlify.app/)
 
 
+## ⚒ Tech Skills
+**Frontend**
+ - HTML, CSS, Javsscript, React
+
+**Backend**
+- Firebase
+
+**Language**
+ - Main : Javascript, Java
+ - Useable : C, Python
+
+
 ## 🔥 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heera7722)](https://solved.ac/heera7722/)
 (https://career.programmers.co.kr/pr/heera7722_8849)
 
+
+<div align=center>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heera7722@gmail.com)](mailto:heera7722@gmail.com)
+</div>
 
 <!--
 **heerachoi/heerachoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
