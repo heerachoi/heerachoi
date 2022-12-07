@@ -31,7 +31,9 @@
 
 
 <div align=center>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heera7722@gmail.com)](mailto:heera7722@gmail.com)
+<br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamheonil%2Fhit-counter&count_bg=%5bcdec&title_bg=%23000000&icon=&icon_color=%232B2929&title=hits&edge_flat=false)](https://github.com/iamheonil)
+
 </div>
 
 <!--
