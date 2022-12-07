@@ -25,10 +25,13 @@ Here are some ideas to get you started:
 [![Heera's github stats](https://github-readme-stats.vercel.app/api?username=heerachoi&show_icons=true&hide_border=true)](https://github.com/heerachoi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heerachoi&layout=compact)](https://github.com/heerachoi)
 
+
+
 ## 🔗 링크
 
 1. [개발 블로그](https://codesign.tistory.com/)
 2. [포트폴리오](https://heerachoi-portfolio.netlify.app/)
+
 
 
 ## 📚 메인 프로젝트
